@@ -8,11 +8,25 @@ The goal in the tutorial assignment is to modify an Hello world
 example insuch a way that it is suitable for automatic
 retrieval and evaluation.
 
-## Step 1
+## Step 0
 
-Clone the repository hosted at
+Fork the repository
 
     https://github.com/rladstaetter/fhj.swengb.assignments.tutorial
+
+via the 'fork' button to your own github place. You have now a new
+repository which is derived from the original one.
+
+## Step 1
+
+Clone your newly created repository hosted at
+
+    https://github.com/place_here_your_github_username/fhj.swengb.assignments.tutorial
+
+via the "Clone in desktop" button.
+
+
+## Step 1
 
 The cloned directory should reside in your workspace. The structure
 should look like this (for example):
