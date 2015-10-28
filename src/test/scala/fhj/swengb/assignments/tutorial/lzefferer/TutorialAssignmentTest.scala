@@ -1,4 +1,4 @@
-package fhj.swengb.assignments.tutorial.zefferel14
+package fhj.swengb.assignments.tutorial.lzefferer
 
 import org.junit.Assert._
 import org.junit.Test
